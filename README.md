@@ -4,25 +4,17 @@
 ¡Bienvenido/a a mi perfil! Soy un apasionado del desarrollo de software, especialmente del **frontend** y la creación de aplicaciones intuitivas y funcionales. Actualmente, estoy formándome en **DAM** para ampliar mis conocimientos en programación, bases de datos y desarrollo multiplataforma.  
 
 ### 🛠️ Tecnologías que manejo  
-- **Lenguajes:** Java, JavaScript, HTML, CSS, Kotlin  
-- **Frameworks/Librerías:** Android Studio, Bootstrap  
-- **Herramientas:** Git, GitHub, VS Code  
+- **Lenguajes:** Java, MySQL, HTML y CSS.
+- **Herramientas:** Git, GitHub, VS Code, Eclipse.
 
 ### 📚 Proyectos destacados  
 - [Portfolio Web](https://daniirc.github.io) (¡Échale un vistazo!)  
-- Aplicaciones Android (en desarrollo)  
+- Paginas Webs (en desarrollo)  
 - Ejercicios y prácticas de programación en Java  
 
 ### 🔗 Conécta conmigo  
-- [GitHub](https://github.com/daniirc)  
-- [LinkedIn](https://linkedin.com/in/tu-perfil) *(opcional)*  
-- Correo: **tu-email@ejemplo.com**  
+- [GitHub](https://github.com/daniirc) 
 
----
-
-<a href="https://daniirc.github.io" target="_blank">  
-  <img src="https://img.shields.io/badge/Ver_mi_página_web-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Ver mi página web" />  
-</a>  
 
 ---  
 
