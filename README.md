@@ -5,7 +5,7 @@
 
 ### 🛠️ Tecnologías que manejo  
 - **Lenguajes:** Java, MySQL, HTML y CSS.
-- **Herramientas:** Git, GitHub, VS Code, Eclipse.
+- **Herramientas:** Git, GitHub, VS Code y Eclipse.
 
 ### 📚 Proyectos destacados  
 - [Portfolio Web](https://daniirc.github.io) (¡Échale un vistazo!)  
