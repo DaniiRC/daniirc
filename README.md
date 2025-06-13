@@ -37,7 +37,7 @@
 
 ### 🔗 Conecta conmigo
 
-🚀 [**Portfolio Web**](https://daniirc.github.io) — *¡Échale un vistazo!* 
+🚀 <a href="https://danii-rc-github-io.vercel.app" target="_blank" rel="noopener noreferrer"><strong>Portfolio Web</strong></a> — <em>¡Échale un vistazo!</em>
 
 ---
 
