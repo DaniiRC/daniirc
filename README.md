@@ -17,6 +17,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![XML](https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white)
 
 #### 🛠️ Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -27,8 +29,7 @@
 ---
 
 ### 📚 Proyectos destacados
-
-🚀 [**Portfolio Web**](https://daniirc.github.io) — *¡Échale un vistazo!*  
+ 
 🛠️ **Páginas Webs** — *(en desarrollo)*  
 📂 **Ejercicios y prácticas en Java** — pequeñas soluciones y retos de programación
 
@@ -36,7 +37,7 @@
 
 ### 🔗 Conecta conmigo
 
-[![GitHub](https://img.shields.io/badge/GitHub-daniirc-181717?style=for-the-badge&logo=github)](https://github.com/daniirc)
+🚀 [**Portfolio Web**](https://daniirc.github.io) — *¡Échale un vistazo!* 
 
 ---
 
