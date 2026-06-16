@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy Daniel</h1>
-<h3 align="center">Desarrollador de Aplicaciones Multiplataforma (DAM) | Backend & Mobile</h3>
+<h3 align="center">Desarrollador de Aplicaciones Multiplataforma (DAM) | Full-Stack | Web & Mobile</h3>
 
 ---
 
