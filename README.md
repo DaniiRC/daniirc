@@ -40,16 +40,7 @@
 
 ### 🔗 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_ENLACE_A_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-r-780105247/)
 
 
-### 📌 ¿Quieres colaborar o contactarme?
-
-💬 ¡No dudes en escribirme!  
-Estoy abierto a **nuevas oportunidades laborales**, **proyectos interesantes**, o simplemente charlar sobre tecnología y desarrollo.
-
----
-
-<p align="center">
-  🚀 <strong>¡Siempre aprendiendo y creando!</strong> 🚀
 </p>
