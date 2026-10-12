@@ -50,10 +50,10 @@
       <img src="https://img.shields.io/badge/MySQL-1E1B2E?style=flat-square&logo=mysql&logoColor=A78BFA" alt="MySQL" />
     </td>
     <td width="33%" valign="top" align="center">
-      <h3>📂 Prácticas en Java</h3>
-      <code>[ colección viva ]</code>
-      <p>Algoritmos y retos de programación para afianzar la base.</p>
-      <img src="https://img.shields.io/badge/Java-1E1B2E?style=flat-square&logo=openjdk&logoColor=A78BFA" alt="Java" />
+      <h3>📂 EduSync</h3>
+      <code>[ proyecto final · terminado ]</code>
+      <p>La aplicación de gestión de tareas y colaboración académica pensada para estudiantes y profesores.</p>
+      <img src="https://img.shields.io/badge/Full--Stack-1E1B2E?style=flat-square&logoColor=A78BFA&color=1E1B2E" alt="Full-Stack" />
     </td>
   </tr>
 </table>
