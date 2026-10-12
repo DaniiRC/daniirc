@@ -1,46 +1,85 @@
-<h1 align="center">¡Hola! 👋 Soy Daniel</h1>
-<h3 align="center">Desarrollador de Aplicaciones Multiplataforma (DAM) | Full-Stack | Web & Mobile</h3>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:6D28D9,100:22D3EE&height=200&section=header&text=DaniiRC&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Cybersecurity&descSize=18&descAlignY=58" alt="Banner de Daniel" width="100%" />
 
-### 🌟 Sobre mí
-¡Bienvenido/a a mi perfil!  
-🎯 Soy un desarrollador de software con formación en **SMR** y **DAM**. Me apasiona crear soluciones completas, abarcando tanto el desarrollo **full-stack web/mobile**.  
-🚀 Actualmente centrado en el desarrollo de aplicaciones móviles multiplataforma y APIs, buscando siempre escribir código limpio y eficiente. ¡Preparado para mi primera oportunidad profesional!
+<a href="https://github.com/DaniiRC">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Desarrollador+Full-Stack;Apps+m%C3%B3viles+%2B+APIs+REST;Estudiando+Ciberseguridad;C%C3%B3digo+limpio%2C+seguro+por+dise%C3%B1o" alt="Texto animado" />
+</a>
 
----
+<br/>
 
-### 🛠️ Tecnologías que manejo
+```text
+┌──────────────────────────────────────────────┐
+│ role      Desarrollador Full-Stack · DAM     │
+│ focus     Apps · APIs · Ciberseguridad       │
+│ stack     Flutter · Java · Spring Boot       │
+│ status    buscando primera oportunidad       │
+└──────────────────────────────────────────────┘
+```
 
-#### 🧠 Lenguajes y Frameworks
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
-#### 🛠️ Herramientas y Entornos
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<br/>
 
----
+## ✦ Stack
 
-### 📚 Proyectos destacados
- 
-📱 **BandApp** *(En desarrollo)* — Aplicación móvil multiplataforma orientada al ámbito musical. Desarrollada con **Flutter/Dart** y conectada a una API REST backend segura implementada con **Java, Spring Boot e Hibernate**.  
-💼 **Herramientas de Gestión Corporativa** — Desarrollo Full-Stack de una plataforma de gestión de bonos y un sistema de control de empleados y partes de trabajo, creados a medida durante mis prácticas en Grupo Forma para Cubetic.  
-📂 **Ejercicios y prácticas en Java** — Colección de pequeñas soluciones, algoritmos y retos de programación.
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,mysql,html,css,js,git,vscode&theme=dark" alt="Tecnologías" />
 
-### 🔗 Conecta conmigo
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-r-780105247/)
+<br/>
+
+## ✦ Proyectos
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>📱 BandApp</h3>
+      <code>[ en desarrollo ]</code>
+      <p>App móvil multiplataforma para el ámbito musical, con API REST segura.</p>
+      <img src="https://img.shields.io/badge/Flutter-1E1B2E?style=flat-square&logo=flutter&logoColor=A78BFA" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Spring_Boot-1E1B2E?style=flat-square&logo=springboot&logoColor=A78BFA" alt="Spring Boot" />
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>💼 Gestión corporativa</h3>
+      <code>[ prácticas · Cubetic ]</code>
+      <p>Plataforma de bonos y sistema de control de empleados y partes de trabajo.</p>
+      <img src="https://img.shields.io/badge/Full--Stack-1E1B2E?style=flat-square&logoColor=A78BFA&color=1E1B2E" alt="Full-Stack" />
+      <img src="https://img.shields.io/badge/MySQL-1E1B2E?style=flat-square&logo=mysql&logoColor=A78BFA" alt="MySQL" />
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>📂 Prácticas en Java</h3>
+      <code>[ colección viva ]</code>
+      <p>Algoritmos y retos de programación para afianzar la base.</p>
+      <img src="https://img.shields.io/badge/Java-1E1B2E?style=flat-square&logo=openjdk&logoColor=A78BFA" alt="Java" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## ✦ Enfoque
+
+<div align="center">
+
+```text
+  código  ──▶  revisión  ──▶  seguridad  ──▶  producción
+```
 
 
-</p>
+</div>
+
+<br/>
+
+## ✦ Contacto
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=1E1B2E&labelColor=A78BFA)](https://www.linkedin.com/in/daniel-r-780105247/)
+[![GitHub](https://img.shields.io/badge/GitHub-1E1B2E?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=1E1B2E)](https://github.com/DaniiRC)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:6D28D9,100:2E1065&height=100&section=footer" alt="Footer" width="100%" />
+
+</div>
